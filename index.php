@@ -2,7 +2,11 @@
 <html>
 <head>
 
+<<<<<<< HEAD
 <!--This is the second commit in develoopment branch-->
+=======
+<!--comment-->
+>>>>>>> parent of d413a9b... dev commit 1
 <meta name="viewport" content="width=device-width, maximum-scale = 1.0, minimum-scale = 1.0, initial-scale=1.0, user-scalable=no"/>
 <link rel = "stylesheet" type = "text/css"href="css/reset.css"/>
 <link rel = "stylesheet" type = "text/css"href="css/flexslider.css"/>
