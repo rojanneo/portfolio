@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<!--comment-->
+<!-- comment 1 -->
 <meta name="viewport" content="width=device-width, maximum-scale = 1.0, minimum-scale = 1.0, initial-scale=1.0, user-scalable=no"/>
 <link rel = "stylesheet" type = "text/css"href="css/reset.css"/>
 <link rel = "stylesheet" type = "text/css"href="css/flexslider.css"/>
@@ -18,9 +18,12 @@
 <script type="text/javascript" src="js/jquery-1.11.1.js"></script>
 <script type="text/javascript" src="js/jquery.flexslider.js"></script>
 <script type="text/javascript" src="js/site.js"></script>
+
+<!--comment 2-->
 <title>Rojan Shrestha</title>
 </head>
 
+<!--test1-->
 <body>
 <div class="page">
 	<div class="header">
