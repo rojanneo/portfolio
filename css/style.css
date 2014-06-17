@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "backlash";
+	font-style:normal;
+    src: url("zocial/Backslash.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "lato-normal";
+    src: url("Lato/Lato-Regular.ttf") format("truetype")
+}
+@font-face {
+    font-family: "lato-thin";
+    src: url("Lato/Lato-Light.ttf") format("truetype")
+}
+@font-face {
+    font-family: "lato-bold";
+    src: url("Lato/Lato-Bold.ttf") format("truetype")
+}
+
+a{border-bottom: 1px solid rgba(0,0,0,0.2);}
+a:hover{ border-bottom: solid 4px #ffffff;display: inline; padding-bottom: 0px;}
+body{background-color:#fcfefd}
+
+.header, .header a{background-color:#0078a4; color:#ffffff}
+.top-nav{font-family:'lato-normal',sans-serif;}
+.logo{font-family:'backlash'}
+.header .tagline ul.slides li{font-family:arial}
+.header .tagline ul.slides li .slide-text{font-family: 'lato-bold' , sans-serif;}
+.page .highlights{font-family:'lato-normal', sans-serif;}

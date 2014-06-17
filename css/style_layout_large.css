@@ -1,0 +1,46 @@
+.page{width:1366px;margin:0 auto;}
+.logo{width:280px; height:120px; float:left; margin: 0px 0px 0px 40px}
+.header{height:648px;}
+.top-menu{height:120px;float:right}
+.top-menu ul{margin:0px 20px 0px 28px}
+.top-menu .menu li {float:left}
+.top-menu .menu li a{float:left; display:block; height:45px;margin-right:35px;}
+.top-menu .menu li a:hover{}
+.top-nav .logo h1{font-size:48px}
+.top-nav .top-menu ul{height:15px; padding:50px 0px 0px 0px;font-size:30px}
+
+.page .highlights{background-color:#2d2d2d; height:550px}
+.header .tagline{width:1366px;height:548px;float:left;background-color: #0078a4;}
+.header .tagline ul.slides{width:1366px; height:528px;}
+.header .tagline ul.slides li{text-align:center; padding:80px 0px;font-size:30px; line-height:1.5em }
+.header .tagline ul.slides li .slide-text .text h2{ font-size:72px; padding:35px 0px 80px 0px}
+.header .tagline ul.slides li .slide-text .text p{font-family: 'lato-thin' , sans-serif; text-align: center;font-weight:300;line-height: 48px;}
+.header .tagline ul.slides li .slide-text .text{margin:0px 0px 35px 0px}
+.header .tagline ul.slides li .slide-text a{padding:10px 30px;}
+.flex-direction-nav li{width:70px;height:65px;float:left;margin-left:40px; margin-bottom:100px; position:absolute; top:300px;background-image:url('../img/left-new.png');border-radius:5px; background-color:#66aec8}
+.flex-direction-nav li:nth-child(2){margin-left:100px;left:1150px; background-image:url('../img/right-new.png');}
+.flex-direction-nav li:hover{background-color:white;}
+.flex-direction-nav li a{width:100px; height:100px; display:block;}
+.flex-control-nav{text-align:center;position:relative; margin-top:-100px}
+.tagline .flex-viewport{height:520px}
+
+.highlights .header-text{margin:20px 0px 15px 185px;width:1000px;height:40px}
+.highlights .header-text p{float:left;font-size:30px;color:#ffffff;padding:30px 30px 0px 30px;}
+.highlights .header-text a{float:right;font-size:30px; color:#ffffff;padding:30px 30px 0px 30px;}
+.highlights .highlight-list{float:left;width:1366px; margin:55px 0px}
+.highlights .highlight-list .highlight-1{float:left;width:400px;height:380px;overflow:hidden; margin: 0px 100px 0px 185px;border-radius: 10px;}
+.highlights .highlight-list .highlight-2{float:left;width:400px;height:380px;overflow:hidden;margin-left: 100px;border-radius: 10px;}
+
+.social{height:105px; background-color:#2d2d2d; font-family:lato-normal;}
+.social .header-text{width:185px; height:40px; float:left; font-size:30px; margin: 35px 0px 0px 180px; color:#ffffff}
+.social .social-links li{float:left; display:block;width:127px; height:32px; margin-top:35px;padding:0px 55px}
+.social .social-links li.facebook a{background-image:url('../img/facebook.png'); background-repeat:no-repeat;display:block;width:127px; height:32px; line-height:0; font-size:0;color:transparent;border-bottom: 0px;}
+.social .social-links li.facebook a:hover{background-image:url('../img/facebook_hover.png'); background-repeat:no-repeat;border-bottom: solid 0px #ffffff;}
+.social .social-links li.twitter{padding-top:7px}
+.social .social-links li.twitter a{background-image:url('../img/twitter.png'); background-repeat:no-repeat;display:block;width:127px; height:32px; line-height:0; font-size:0;color:transparent;border-bottom: 0px;}
+.social .social-links li.twitter a:hover{background-image:url('../img/twitter_hover.png'); background-repeat:no-repeat;border-bottom: solid 0px #ffffff;}
+.social .social-links li.linkedin a{background-image:url('../img/linkedin.png'); background-repeat:no-repeat;display:block;width:127px; height:32px; line-height:0; font-size:0;color:transparent;border-bottom: 0px;}
+.social .social-links li.linkedin a:hover{background-image:url('../img/linkedin_hover.png'); background-repeat:no-repeat;border-bottom: solid 0px #ffffff;}
+
+.social .social-links li.behance a{background-image:url('../img/behance.png'); background-repeat:no-repeat;display:block;width:127px; height:32px; line-height:0; font-size:0;color:transparent;border-bottom: 0px;}
+.social .social-links li.behance a:hover{background-image:url('../img/behance_hover.png'); background-repeat:no-repeat;border-bottom: solid 0px #ffffff;}
