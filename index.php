@@ -2,11 +2,7 @@
 <html>
 <head>
 
-<<<<<<< HEAD
-<!--This is the second commit in develoopment branch-->
-=======
-<!--comment-->
->>>>>>> parent of d413a9b... dev commit 1
+<!-- comment 1 -->
 <meta name="viewport" content="width=device-width, maximum-scale = 1.0, minimum-scale = 1.0, initial-scale=1.0, user-scalable=no"/>
 <link rel = "stylesheet" type = "text/css"href="css/reset.css"/>
 <link rel = "stylesheet" type = "text/css"href="css/flexslider.css"/>
@@ -22,6 +18,8 @@
 <script type="text/javascript" src="js/jquery-1.11.1.js"></script>
 <script type="text/javascript" src="js/jquery.flexslider.js"></script>
 <script type="text/javascript" src="js/site.js"></script>
+
+<!--comment 2-->
 <title>Rojan Shrestha</title>
 </head>
 
